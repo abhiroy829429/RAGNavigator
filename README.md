@@ -376,7 +376,4 @@ Autonomy in LLM applications (5 levels):
 - State Machine (LangGraph): Agent executed, where agent is a control flow controlled by LLM, use LLM to reason where to go in this flow and tools-calling to execute steps, agent can have cycles.
 
 
-<!-- TOC --><a name="acknowledgements"></a>
-## Acknowledgements
 
-[Eden Marco: LangGraph-Develop LLM powered AI agents with LangGraph](https://www.udemy.com/course/langgraph)
